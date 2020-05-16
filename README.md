@@ -1,2 +1,3 @@
 # react-config-with-webpack
-This is my webpack config to work with react, no CRA
+This is my webpack config to work with react, sass supported.
+No CRA
